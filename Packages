@@ -1,0 +1,11 @@
+Package: com.bigboss.theeasybutton
+Name: The Easy Button
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The iconic soundboard gimmick toy. Tap the giant red button to play the classic slogan audio. Hosted free on KevDeviOS Toys repository.
+Maintainer: KevDeviOS
+Author: BigBoss & KevDeviOS
+Section: Toys
+Filename: debs/theeasybutton.deb
+Size: 15420
+MD5sum: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6
