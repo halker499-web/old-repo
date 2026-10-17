@@ -1,8 +1,9 @@
 Origin: KevDeviOS Toys
-Label: KevDeviOS
+Label: KevDeviOS Toys
 Suite: stable
 Version: 1.0.0
 Codename: re1ndoo
 Architectures: iphoneos-arm
 Components: main
 Description: The ultimate retro playroom. Exclusive repository for vintage iOS toys, classic games, and accelerometer gimmicks by KevDeviOS. No standard tweaks inside.
+Icon: https://githubusercontent.com
