@@ -1,0 +1,8 @@
+Origin: KevDeviOS Repo
+Label: KevDeviOS
+Suite: stable
+Version: 1.0.0
+Codename: re1ndoo
+Architectures: iphoneos-arm
+Components: main
+Description: Legacy iOS tweaks, unlocked toys, and custom configurations by KevDeviOS.
